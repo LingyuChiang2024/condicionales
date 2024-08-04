@@ -1,0 +1,67 @@
+
+body{
+    background-color:gray;
+}
+
+.emblema{
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 2px;
+}
+
+#buho {
+    width: 80px;
+}
+
+.e2 {
+    
+    margin-top: 2px;
+    text-align: center;
+    border-style:solid;
+    border-color:black;
+    border-width:2px;
+}
+
+.galeria{
+
+    display:flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+#p1,#p2,#p3{
+    width: 80px;
+}
+
+.boton{
+    padding: 5px;
+    margin:5px;
+
+}
+
+.selector{
+    margin-top:5px;
+    text-align: center;
+    border-style:solid;
+    border-color:black;
+    border-width:2px;
+}
+
+.numeros{
+    display:flex;
+    justify-content: center;
+    margin-bottom:2px;
+}
+
+.ingreso{
+    margin:2px,
+}
+
+
+
+
